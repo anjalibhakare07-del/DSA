@@ -91,7 +91,7 @@ int main()
     return 0;
 
 } 
-/*PS D:\Anjali Bhakare> cd "d:\Anjali Bhakare\" ; if ($?) { g++ double_ll.cpp -o double_ll } ; if ($?) { .\double_ll }
+/*PS D:\Siddhant Jadhav> cd "d:\Siddhant Jadhav\" ; if ($?) { g++ double_ll.cpp -o double_ll } ; if ($?) { .\double_ll }
 Before removing node
 [10]<=>[20]<=>[30]<=>[40]<=>
 After removing node

@@ -26,8 +26,8 @@ int main()
     return(0);
 }
 
-/*PS D:\Anjali Bhakare> g++ linear_search.cpp -o out
-PS D:\Anjali Bhakare> ./out                       
+/*PS D:\Siddhant Jadhav> g++ linear_search.cpp -o out
+PS D:\Siddhant Jadhav> ./out                       
 How many element 5
 Enter5element 10
 20

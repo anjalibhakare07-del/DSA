@@ -93,8 +93,8 @@ int main()
      
     return 0;
 }
-/*PS D:\Anjali Bhakare> cd 'd:\Anjali Bhakare\output'
-PS D:\Anjali Bhakare\output> & .\'stack_using_linkdlist.exe'
+/*PS D:\Siddhant Jadhav> cd 'd:\Siddhant Jadhav\output'
+PS D:\Siddhant Jadhav\output> & .\'stack_using_linkdlist.exe'
 30
 20
 10
@@ -103,7 +103,7 @@ removed element is 30
 20
 10
 stack underflow
-PS D:\Anjali Bhakare\output> */
+PS D:\Siddhant Jadhav\output> */
 
 
 

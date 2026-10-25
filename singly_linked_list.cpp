@@ -87,7 +87,7 @@ int main() {
     return 0;
 }
 
-/*PS C:\Users\Anjali Bhakare> cd 'c:\DSA\output'
+/*PS C:\Users\Siddahant Jadhav> cd 'c:\DSA\output'
 PS C:\DSA\output> & .\'singly_linked_list.exe'
 10-> 20-> 30-> NULL
 10-> 20-> 30-> 40-> 50-> 60-> NULL
