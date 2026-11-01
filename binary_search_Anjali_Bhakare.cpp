@@ -32,8 +32,8 @@ int main()
     return(0);
 }
 
-/*PS D:\Siddhant Jadhav> g++ binary_search.cpp -o out
-PS D:\Siddhant Jadhav> ./out                       
+/*PS D:\Anjali Bhakare> g++ binary_search.cpp -o out
+PS D:\Anjali Bhakare> ./out                       
 How many element4
 Enter4element10
 20

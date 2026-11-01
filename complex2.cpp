@@ -47,8 +47,8 @@ int main(){
     return 0;
 }
 
-/*PS D:\Siddhant Jadhav> g++ complex2.cpp -o out                                               
-PS D:\Siddhant Jadhav> ./out                  
+/*PS D:\Anjali Bhakare> g++ complex2.cpp -o out                                               
+PS D:\Anjali Bhakare> ./out                  
 
 First Complex Number:4+5i
 Second Complex Number:2+3i

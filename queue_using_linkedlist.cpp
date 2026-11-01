@@ -155,8 +155,8 @@ removed element is 30
 20
 10
 stack underflow
-PS D:\Siddhant Jadhav\output> cd 'd:\Siddhant Jadhav\output'
-PS D:\Siddhant Jadhav\output> & .\'queue_using_linkedlist.exe'
+PS D:\Anjali Bhakare\output> cd 'd:\Siddhant Jadhav\output'
+PS D:\Anjali Bhakare\output> & .\'queue_using_linkedlist.exe'
 queue contents after enqueue operation: 
 10      queue contents after enqueue operation: 
 10      20      queue contents after enqueue operation: 

@@ -145,8 +145,8 @@ int main()
 
     return 0;
 }
-/*PS C:\Users\Students> cd 'd:\Siddhant Jadhav\output'
-PS D:\Siddhant Jadhav\output> & .\'queue_using_array.exe'
+/*PS C:\Users\Students> cd 'd:\Anjali Bhakare\output'
+PS D:\Anjali Bhakare\output> & .\'queue_using_array.exe'
 queue contents after enqueue operation:
 10
 queue contents after enqueue operation:
@@ -177,4 +177,4 @@ queue contents after dequeue operation:
 dequeued out element is 60
 queue contents after dequeue operation:
 queue is empty
-PS D:\Siddhant Jadhav\output> */
+PS D:\Anjali Bhakare\output> */

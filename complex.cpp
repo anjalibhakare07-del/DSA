@@ -38,8 +38,8 @@ int main()
     return 0;
 }
 
-/*PS D:\Siddhant Jadhav> g++ complex.cpp -o out   
-PS D:\Siddhant Jadhav>  ./out                
+/*PS D:\Anjali Bhakare> g++ complex.cpp -o out   
+PS D:\Anjali Bhakare>  ./out                
 complex number is=
 2+3j
 complex number is=

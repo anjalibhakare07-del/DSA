@@ -37,8 +37,8 @@ int main()
 
 }
 
-/*PS D:\Siddant Jadhav> g++ bubblesort.cpp -o out
-PS D:\Siddant Jadhav>  ./out                   
+/*PS D:\Anjali Bhakare> g++ bubblesort.cpp -o out
+PS D:\Anjali Bhakare>  ./out                   
 Enter number of element:5 
 Enter5element:23
 56

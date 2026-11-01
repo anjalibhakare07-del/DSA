@@ -196,8 +196,8 @@ int main()
 
 }
 
-/*PS D:\Siddhant Jadhav> cd 'd:\Siddhant Jadhav\output'
-PS D:\Siddhant Jadhav\output> & .\'stack.array.exe'
+/*PS D:\Anjali Bhakare> cd 'd:\Anjali Bhakare\output'
+PS D:\Anjali Bhakare\output> & .\'stack.array.exe'
 Stack contents after a push operation
 Stack contents after a push operation
 20
@@ -230,4 +230,4 @@ stack contents after pop operation:
 Popped out element is=10
 stack contents after pop operation:
 Stack is emptystack contents after pop operation:
-PS D:\Siddhant Jadhav\output> */
+PS D:\Anjali Bhakare\output> */

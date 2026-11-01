@@ -55,7 +55,7 @@ private:
 
 
 
-/*PS C:\Users\Student> cd "d:\Anjali Bhakare  (142)\" ; if ($?) { g++ postfix.cpp -o postfix } ; if ($?) { .\postfix }
+/*PS C:\Users\Student> cd "d:\Anjali Bhakare  (113)\" ; if ($?) { g++ postfix.cpp -o postfix } ; if ($?) { .\postfix }
 
 Enter the postfix expression: 623+-382/+*2$3+
 
